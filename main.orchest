@@ -1,11 +1,392 @@
 {
     "name": "Main",
     "parameters": {},
+    "services": {},
     "settings": {
         "auto_eviction": false,
         "data_passing_memory_size": "1GB"
     },
-    "steps": {},
+    "steps": {
+        "06860b11-e7d7-4d20-b407-4275b001a3e6": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "IBGE-PPM/PPM-Efetivo-Rebanho/PPM_efetivo_rebanho2.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    755.2973856209151,
+                    149.64705882352928
+                ]
+            },
+            "parameters": {},
+            "title": "IBGE PPM - Efetivo Rebanho",
+            "uuid": "06860b11-e7d7-4d20-b407-4275b001a3e6"
+        },
+        "1ebc29bc-02ca-47db-9066-1f8a186cd323": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "PRORUAL/bovinocultura.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    821.6286919831223,
+                    1072.5780590717302
+                ]
+            },
+            "parameters": {},
+            "title": "Prorural - Bovinocultura",
+            "uuid": "1ebc29bc-02ca-47db-9066-1f8a186cd323"
+        },
+        "2146eca2-9cfa-49c5-9700-0bec09cf39fa": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "PRORUAL/agricutura_familiar.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    817.3080168776373,
+                    807.1434599156116
+                ]
+            },
+            "parameters": {},
+            "title": "Prorural -Agricultura Familiar",
+            "uuid": "2146eca2-9cfa-49c5-9700-0bec09cf39fa"
+        },
+        "265b604f-ad82-49e7-8d89-0309e8137c3f": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": ".",
+            "incoming_connections": [
+                "06860b11-e7d7-4d20-b407-4275b001a3e6",
+                "da0b90ad-b8a0-417a-8e60-1e856da82e27"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    1088.797385620915,
+                    198.64705882352928
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "265b604f-ad82-49e7-8d89-0309e8137c3f"
+        },
+        "2b0c3c06-3e2c-4104-8d8a-0aeb7341d210": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "Comercio Exterior/Exporta\u00e7\u00e3o/exportacao2.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    702.6666666666665,
+                    513.0196078431375
+                ]
+            },
+            "parameters": {},
+            "title": "Comercio Exterior - Exporta\u00e7\u00e3o",
+            "uuid": "2b0c3c06-3e2c-4104-8d8a-0aeb7341d210"
+        },
+        "39c031d8-d270-4dfa-821c-644b9c1e881f": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "dados_or_ament_rios_",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.000000000000107,
+                    80
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Org\u00e3os",
+            "uuid": "39c031d8-d270-4dfa-821c-644b9c1e881f"
+        },
+        "581c5dcb-207b-48c1-a903-3e03036124dd": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "PRORUAL/avicultura.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    821.6286919831218,
+                    942.9578059071728
+                ]
+            },
+            "parameters": {},
+            "title": "Prorural -Avicultura",
+            "uuid": "581c5dcb-207b-48c1-a903-3e03036124dd"
+        },
+        "66bbdb96-d594-4993-bebc-ee7014da8b78": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Pagamento despesas orcamentais/Pagamento despesas orcamentais.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.000000000000053,
+                    615.5
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Pagamento despesas or\u00e7amentais",
+            "uuid": "66bbdb96-d594-4993-bebc-ee7014da8b78"
+        },
+        "674b9659-3a76-4d87-8e85-a93b2a4e0e51": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Elementos despesa/elementos despesa.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.00000000000009,
+                    258.5
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Elementos Despesas",
+            "uuid": "674b9659-3a76-4d87-8e85-a93b2a4e0e51"
+        },
+        "7afed4e7-ec18-40b5-ab52-657afb54a900": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Receita arrecada e prevista/Receita arrecada e prevista.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.000000000000036,
+                    794
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Receita arrecada e prevista",
+            "uuid": "7afed4e7-ec18-40b5-ab52-657afb54a900"
+        },
+        "804c9f4f-caf7-434e-9c59-05023cd70e57": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": ".",
+            "incoming_connections": [
+                "2b0c3c06-3e2c-4104-8d8a-0aeb7341d210",
+                "9b68f017-4969-4969-91a4-b27fca32bec9"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    966.1666666666665,
+                    602.2696078431375
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "804c9f4f-caf7-434e-9c59-05023cd70e57"
+        },
+        "9876271b-08a6-48a7-a431-95bf8a5c7742": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Exercicios/exercicios.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.00000000000007,
+                    437
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Exerc\u00edcios",
+            "uuid": "9876271b-08a6-48a7-a431-95bf8a5c7742"
+        },
+        "9b68f017-4969-4969-91a4-b27fca32bec9": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "Comercio Exterior/Importa\u00e7\u00e3o/importacao2.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    702.6666666666665,
+                    691.5196078431375
+                ]
+            },
+            "parameters": {},
+            "title": "Comercio Exterior - Importa\u00e7\u00e3o",
+            "uuid": "9b68f017-4969-4969-91a4-b27fca32bec9"
+        },
+        "a20dff82-8ed9-4599-8d83-cf3c161a9de7": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "Empregos_CAGED",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    572.1568627450979,
+                    1132.2647058823527
+                ]
+            },
+            "parameters": {},
+            "title": "Empregos - CAGED",
+            "uuid": "a20dff82-8ed9-4599-8d83-cf3c161a9de7"
+        },
+        "c14c5d94-caa7-4003-bfd3-76996139fe10": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": ".",
+            "incoming_connections": [
+                "674b9659-3a76-4d87-8e85-a93b2a4e0e51",
+                "9876271b-08a6-48a7-a431-95bf8a5c7742",
+                "39c031d8-d270-4dfa-821c-644b9c1e881f",
+                "66bbdb96-d594-4993-bebc-ee7014da8b78",
+                "7afed4e7-ec18-40b5-ab52-657afb54a900",
+                "cdd89c88-e7ec-4c85-9511-a38dd04227db",
+                "fd351207-db29-4ff2-94da-ed25ed5047ad"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    283.50000000000006,
+                    615.5
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "c14c5d94-caa7-4003-bfd3-76996139fe10"
+        },
+        "cdd89c88-e7ec-4c85-9511-a38dd04227db": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Receita orcamentaria arrecadada/Receita orcamentaria arrecadada.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20.000000000000018,
+                    972.5
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Receita or\u00e7amentaria arrecadada",
+            "uuid": "cdd89c88-e7ec-4c85-9511-a38dd04227db"
+        },
+        "d6d97dbe-9f78-44c1-ac82-7d4b3d32e74d": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "prorural",
+            "incoming_connections": [
+                "2146eca2-9cfa-49c5-9700-0bec09cf39fa",
+                "581c5dcb-207b-48c1-a903-3e03036124dd",
+                "1ebc29bc-02ca-47db-9066-1f8a186cd323"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    1076.5485232067513,
+                    923.5147679324893
+                ]
+            },
+            "parameters": {},
+            "title": "Prorural",
+            "uuid": "d6d97dbe-9f78-44c1-ac82-7d4b3d32e74d"
+        },
+        "da0b90ad-b8a0-417a-8e60-1e856da82e27": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "IBGE-PPM/PPM-Producao-origem-animal/PPM_Producao_origem_animal.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    760.2973856209151,
+                    302.6470588235293
+                ]
+            },
+            "parameters": {},
+            "title": "IBGE PPM - Origem Animal",
+            "uuid": "da0b90ad-b8a0-417a-8e60-1e856da82e27"
+        },
+        "fd351207-db29-4ff2-94da-ed25ed5047ad": {
+            "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
+            "file_path": "DadosOrcamentarios/Credor/credor.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20,
+                    1151
+                ]
+            },
+            "parameters": {},
+            "title": "Dados Or\u00e7ament\u00e1rios - Credor",
+            "uuid": "fd351207-db29-4ff2-94da-ed25ed5047ad"
+        }
+    },
     "uuid": "57ad98e4-bad9-48a0-85fc-ab3bb0a64a80",
-    "version": "1.0.0"
+    "version": "1.2.1"
 }
