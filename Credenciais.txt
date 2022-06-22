@@ -1,0 +1,13 @@
+superset
+http://20.201.127.22:8088/
+
+https://www.orchest.io/
+http://69.64.52.9/ anselmo anselmo
+
+Heroku
+Host: ec2-44-197-128-108.compute-1.amazonaws.com
+Database: dbo0r69im3sc5j
+User: avkupaybuzfpjk
+Port: 5432
+Password: 0d38d332936823657d7a021273e486390baa65f932b262fce74e224d5c43c6b8
+
