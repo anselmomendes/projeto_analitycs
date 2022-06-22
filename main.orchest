@@ -47,7 +47,7 @@
         },
         "2146eca2-9cfa-49c5-9700-0bec09cf39fa": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "PRORUAL/agricutura_familiar.ipynb",
+            "file_path": "PRORUAL/agricutura familiar.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -107,7 +107,7 @@
         },
         "39c031d8-d270-4dfa-821c-644b9c1e881f": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "dados_or_ament_rios_",
+            "file_path": "Dados orcamentarios/Orgaos/orgaos.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -170,7 +170,7 @@
         },
         "66bbdb96-d594-4993-bebc-ee7014da8b78": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Pagamento despesas orcamentais/Pagamento despesas orcamentais.ipynb",
+            "file_path": "Dados orcamentarios/Pagamento despesas orcamentais",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -189,7 +189,7 @@
         },
         "674b9659-3a76-4d87-8e85-a93b2a4e0e51": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Elementos despesa/elementos despesa.ipynb",
+            "file_path": "Dados orcamentarios/Pagamento despesas orcamentais/Pagamento despesas orcamentais.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -208,7 +208,7 @@
         },
         "7afed4e7-ec18-40b5-ab52-657afb54a900": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Receita arrecada e prevista/Receita arrecada e prevista.ipynb",
+            "file_path": "Dados orcamentarios/Receita arrecada e prevista/Receita arrecada e prevista.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -249,7 +249,7 @@
         },
         "9876271b-08a6-48a7-a431-95bf8a5c7742": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Exercicios/exercicios.ipynb",
+            "file_path": "Dados orcamentarios/Exercicios/exercicios.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -333,7 +333,7 @@
         },
         "cdd89c88-e7ec-4c85-9511-a38dd04227db": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Receita orcamentaria arrecadada/Receita orcamentaria arrecadada.ipynb",
+            "file_path": "Dados orcamentarios/Receita orcamentaria arrecadada/Receita orcamentaria arrecadada.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -394,7 +394,7 @@
         },
         "fd351207-db29-4ff2-94da-ed25ed5047ad": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "DadosOrcamentarios/Credor/credor.ipynb",
+            "file_path": "Dados orcamentarios/Credor/credor.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
