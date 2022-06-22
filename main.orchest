@@ -9,7 +9,7 @@
     "steps": {
         "06860b11-e7d7-4d20-b407-4275b001a3e6": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "IBGE-PPM/PPM-Efetivo-Rebanho/PPM_efetivo_rebanho2.ipynb",
+            "file_path": "IBGE PPM/PPM Efetivo Rebanho/PPM efetivo rebanho2.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -375,7 +375,7 @@
         },
         "da0b90ad-b8a0-417a-8e60-1e856da82e27": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "IBGE-PPM/PPM-Producao-origem-animal/PPM_Producao_origem_animal.ipynb",
+            "file_path": "IBGE PPM/PPM Producao origem animal/PPM Producao origem animal.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
