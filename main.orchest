@@ -170,7 +170,7 @@
         },
         "66bbdb96-d594-4993-bebc-ee7014da8b78": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "Dados orcamentarios/Pagamento despesas orcamentais/Pagamento despesas orcamentais.ipynb",
+            "file_path": "Dados orcamentarios/Pagamento despesas orcamentais/pagamento_despesas_orcamentais.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -333,7 +333,7 @@
         },
         "cdd89c88-e7ec-4c85-9511-a38dd04227db": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "Dados orcamentarios/Receita orcamentaria arrecadada/Receita orcamentaria arrecadada.ipynb",
+            "file_path": "Dados orcamentarios/Receita orcamentaria arrecadada/receita_orcementaria_arrecadada.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
