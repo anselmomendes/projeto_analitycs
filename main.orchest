@@ -18,8 +18,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000018,
-                    2222
+                    160,
+                    2190
                 ]
             },
             "parameters": {},
@@ -37,8 +37,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.00000000000016,
-                    794
+                    160,
+                    762
                 ]
             },
             "parameters": {},
@@ -56,8 +56,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000178,
-                    437
+                    160,
+                    405
                 ]
             },
             "parameters": {},
@@ -78,8 +78,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    283.50000000000006,
-                    1597.25
+                    423.5,
+                    1565.25
                 ]
             },
             "parameters": {},
@@ -97,8 +97,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000213,
-                    80
+                    160,
+                    48
                 ]
             },
             "parameters": {},
@@ -116,8 +116,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000107,
-                    1329.5
+                    160,
+                    1297.5
                 ]
             },
             "parameters": {},
@@ -126,11 +126,10 @@
         },
         "43e17812-a859-492e-a178-a59c0ee978a9": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "dataharehouse",
+            "file_path": "Merges",
             "incoming_connections": [
                 "265b604f-ad82-49e7-8d89-0309e8137c3f",
                 "804c9f4f-caf7-434e-9c59-05023cd70e57",
-                "d6d97dbe-9f78-44c1-ac82-7d4b3d32e74d",
                 "a20dff82-8ed9-4599-8d83-cf3c161a9de7",
                 "c14c5d94-caa7-4003-bfd3-76996139fe10"
             ],
@@ -141,8 +140,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    547.0000000000001,
-                    1240.25
+                    687,
+                    1208.25
                 ]
             },
             "parameters": {},
@@ -160,8 +159,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000178,
-                    615.5
+                    160,
+                    583.5
                 ]
             },
             "parameters": {},
@@ -179,8 +178,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.00000000000009,
-                    1508
+                    160,
+                    1476
                 ]
             },
             "parameters": {},
@@ -198,8 +197,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    27.566502463054263,
-                    975.0221674876847
+                    167.56650246305435,
+                    943.0221674876848
                 ]
             },
             "parameters": {},
@@ -217,8 +216,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.00000000000007,
-                    1686.5
+                    160,
+                    1654.5
                 ]
             },
             "parameters": {},
@@ -227,7 +226,7 @@
         },
         "804c9f4f-caf7-434e-9c59-05023cd70e57": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": ".",
+            "file_path": "Merges",
             "incoming_connections": [
                 "2b0c3c06-3e2c-4104-8d8a-0aeb7341d210",
                 "9b68f017-4969-4969-91a4-b27fca32bec9"
@@ -239,8 +238,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    283.5000000000001,
-                    883.25
+                    423.5,
+                    851.25
                 ]
             },
             "parameters": {},
@@ -258,8 +257,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000124,
-                    1151
+                    160,
+                    1119
                 ]
             },
             "parameters": {},
@@ -277,8 +276,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000195,
-                    258.5
+                    160,
+                    226.5
                 ]
             },
             "parameters": {},
@@ -287,7 +286,7 @@
         },
         "a20dff82-8ed9-4599-8d83-cf3c161a9de7": {
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
-            "file_path": "Empregos CAGED",
+            "file_path": "Empregos CAGED/empregos caged.ipynb",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
@@ -296,8 +295,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    283.5000000000001,
-                    1240.25
+                    423.5,
+                    1208.25
                 ]
             },
             "parameters": {},
@@ -323,8 +322,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    283.50000000000006,
-                    1418.75
+                    423.5,
+                    1386.75
                 ]
             },
             "parameters": {},
@@ -342,8 +341,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000053,
-                    1865
+                    160,
+                    1833
                 ]
             },
             "parameters": {},
@@ -354,9 +353,9 @@
             "environment": "1d416f9b-f8d3-4737-adea-6b1e9873c803",
             "file_path": "prorural",
             "incoming_connections": [
-                "2146eca2-9cfa-49c5-9700-0bec09cf39fa",
+                "1ebc29bc-02ca-47db-9066-1f8a186cd323",
                 "581c5dcb-207b-48c1-a903-3e03036124dd",
-                "1ebc29bc-02ca-47db-9066-1f8a186cd323"
+                "2146eca2-9cfa-49c5-9700-0bec09cf39fa"
             ],
             "kernel": {
                 "display_name": "Python 3",
@@ -365,8 +364,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    283.5000000000001,
-                    1061.75
+                    423.5,
+                    1029.75
                 ]
             },
             "parameters": {},
@@ -384,8 +383,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20,
-                    2400.5
+                    160,
+                    2368.5
                 ]
             },
             "parameters": {},
@@ -403,8 +402,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    20.000000000000036,
-                    2043.5
+                    160,
+                    2011.5
                 ]
             },
             "parameters": {},
